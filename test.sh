@@ -1,0 +1,1 @@
+python ./code/test.py --dataset nyudepthv2 --data_path ./datasets/nyu_depth_v2 --save_eval_pngs  --max_depth 10.0 --max_depth_eval 10.0
